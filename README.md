@@ -1,2 +1,2 @@
-# dior
-My first site on github
+# Dior
+My first one page site on github
